@@ -4,7 +4,7 @@
 /* SKY */
 
 // color - Night sky color
-const vec3 nightSkyCol = vec3(0.01,0.06,0.1);
+const vec3 nightSkyCol = vec3(0.007,0.042,0.07);
 
 // color - Sky base color
 const vec3 skyBaseCol = vec3(0.15,0.45,1.0);
